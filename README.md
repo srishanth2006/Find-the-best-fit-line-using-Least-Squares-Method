@@ -40,8 +40,8 @@ print(y_pred)
 plt.scatter(x,y)
 plt.plot(x,y_pred,color='red')
 plt.show()
-*/
-'''
+*/```
+
 
 
 
