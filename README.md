@@ -42,6 +42,8 @@ plt.plot(x,y_pred,color='red')
 plt.show()
 */
 
+
+
 ## Output:
 <img width="335" alt="image" src="https://github.com/srishanth2006/Find-the-best-fit-line-using-Least-Squares-Method/assets/150319470/b363ccd7-2b5e-48ca-9039-0480f8b55916">
 
